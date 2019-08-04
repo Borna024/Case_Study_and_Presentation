@@ -41,3 +41,42 @@ The average investor is comfortable outsourcing asset management and wealth advi
 I believe that Cadre likes the crowdfunding model and will stick to it. Cadre's role in the future will likely be to offer accessible private equity. Ryan Williams, has already stated that other alternative assets are on the horizon for Cadre. Crowdfunding might limit the size of deals that are available on Cadre. In theory, Cadre might be able to crowdfund loans to purchase assets while still offering direct stakes in the purchased asset. Each asset class that is added to Cadre will require its own group on specialists who will approve deals.
 
 The primary growth factor for Cadre is through increase the size of its marketplace, which occurs through growing volume of users, money, and transactions in its marketplace. An easy driver is access to the secondary growth market. Then, a wider range of investments across both asset classes and returns. After that, I would try to innovate using peer to peer options, which could involve cryptocurrency or DLT. I would also at some point open up the marketplace beyond accredited investors or create a tier of investments for unaccredited investors. Finally, to ensure profitability and growth, I would take a small slice of every transaction.
+
+<div style="page-break-after: always;"></div>
+
+## Citations
+
+* <https://www.forbes.com/sites/nathanvardi/2019/01/31/ryan-williams-30-started-a-revolutionary-800m-fintech-but-can-he-escape-his-kushner-trump-connection/#48f1741b6f0a>
+* <https://www.crunchbase.com/organization/cadre-2#section-overview>
+* <https://cadre.com>
+* <https://therealdeal.com/issues_articles/cracking-cadres-code/>
+* <https://www.institutionalinvestor.com/article/b1bd8ckb2qzk0v/The-Startup-Trying-to-Disrupt-Private-Equity-Firms>
+* <https://www.cnn.com/2019/05/20/investing/ryan-williams-cadre-real-estate/index.html>
+* <https://www.pionline.com/article/20181210/PRINT/181219982/cadre>
+* <https://www.cretech.com/news/kushner-backed-cadre-raised-90m-through-anonymous-offshore-vehicle-since-2017/>
+* <https://angel.co/company/cadre_>
+* <https://nypost.com/2016/01/26/real-estate-startup-cadre-raises-whopping-50m/>
+* <https://www.businesswire.com/news/home/20170606006586/en>
+* <https://techcrunch.com/2015/03/24/cadre/>
+* <https://fundrise.com/education/blog-posts/reits-101-a-beginners-guide-to-real-estate-investment-trusts>
+* <https://www.thebalance.com/what-are-reits-416837>
+* <https://www.magnifymoney.com/blog/investing/reit-investing/>
+* <https://www.inc.com/zoe-henry/30-under-30-2017-cadre.html>
+* <https://www.bisnow.com/national/news/capital-markets/cadre-98907>
+* <https://www.bisnow.com/national/news/capital-markets/cadre-93774>
+* <https://www.perenews.com/print-editions/2017-09/cadre-its-who-and-what-you-know/>
+* <https://www.institutionalinvestor.com/article/b16ftg0xsdkwz7/goldman-sachs-to-offer-online-commercial-real-estate-deals>
+* <https://a16z.com/2017/06/06/cadre/>
+* <https://en.wikipedia.org/wiki/Cadre_(company)>
+* <https://www.bloomberg.com/news/videos/2017-03-21/cadre-ceo-says-data-processes-give-them-an-edge-video>
+* <https://www.builtinnyc.com/2017/04/05/cadre-disrupting-real-estate-nyc>
+* <https://www.builtinnyc.com/2018/09/28/spotlight-working-at-cadre>
+* <https://fortune.com/2019/07/10/real-estate-investing-technology-proptech/>
+* <https://www.cbinsights.com/research/cadre-future-fintech/>
+* <https://www.equity.media/goldman-sachs-invest-250-million-cadre-real-estate-tech-startup/>
+* <https://thefr.com/interviews/a-conversation-with-cadres-ryan-williams>
+* <https://therealdeal.com/2016/01/28/kushner-brothers-cadre-raises-50m-in-series-b/>
+* <https://cadre.com/insights/how-cadre-uses-machine-learning-to-target-real-estate-markets/>
+* <https://cadre.com/insights/using-react-and-tcombs-union-types-to-build-better-conditional-forms/>
+* <https://www.realtymogul.com>
+* <https://www.crowdstreet.com>
